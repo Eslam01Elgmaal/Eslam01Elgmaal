@@ -15,7 +15,7 @@ Enhancing my skills in APIs and Django views
 
 Exploring React to build dynamic user interfaces
 
-Working on exciting projects like a football player marketing platform and a T-shirt e-commerce website
+Working on exciting projects like a football player marketing platform e-commerce website
 
 
 I'm also interested in:
