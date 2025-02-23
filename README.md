@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @Eslam01Elgmaal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there, I'm Islam! 👋
 
-<!---
-Eslam01Elgmaal/Eslam01Elgmaal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a 24-year-old Information Systems graduate from the class of 2024. I'm passionate about programming and web development, with a focus on:
+
+Django for backend development
+
+React for frontend magic
+
+Python for versatile scripting and problem-solving
+
+
+I'm currently:
+
+Enhancing my skills in APIs and Django views
+
+Exploring React to build dynamic user interfaces
+
+Working on exciting projects like a football player marketing platform and a T-shirt e-commerce website
+
+
+I'm also interested in:
+
+Freelancing to expand my real-world experience
+
+Building a solid programming career, potentially within my current company
+
+
+Feel free to connect with me on LinkedIn or reach out via email at [ https://www.linkedin.com/in/eslam-ibrahem-787876250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ]
+
+
