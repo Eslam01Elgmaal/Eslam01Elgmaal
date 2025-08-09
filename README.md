@@ -1,4 +1,4 @@
-Hi there, I'm Islam! 👋
+Hi there, I'm Islam! 
 
 I'm a 24-year-old Information Systems graduate from the class of 2024. I'm passionate about programming and web development, with a focus on:
 
